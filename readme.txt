@@ -3,7 +3,7 @@ Tags: hero banner image, hero video background, hero header video, youtube video
 Contributors: essentialplugin, aminshoukat
 Requires at least: 4.0
 Tested up to: 6.8.1
-Stable tag: 1.4.5
+Stable tag: 1.4.6
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
@@ -62,6 +62,9 @@ Large fullscreen backgrounds and hero banners can be used in single page designs
 We take security seriously. If you discover a security vulnerability, please send an email to support@essentialplugin.com. All security vulnerabilities will be promptly addressed.
 
 == Changelog ==
+
+= 1.4.6 (19, Jun 2025) =
+* [*] Added - GNU License file
 
 = 1.4.5 (19, Jun 2025) =
 * [*] Fix - Secure file inclusion with validation
