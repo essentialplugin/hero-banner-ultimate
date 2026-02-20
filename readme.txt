@@ -1,8 +1,8 @@
 === Hero Banner Ultimate ===
 Tags: hero banner image, hero video background, hero header video, youtube video background, vimeo video background
-Contributors: essentialplugin, aminshoukat
+Contributors: essentialplugin
 Requires at least: 4.0
-Tested up to: 6.8.1
+Tested up to: 6.9.1
 Stable tag: 1.4.6
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
